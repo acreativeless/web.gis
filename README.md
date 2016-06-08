@@ -1,5 +1,6 @@
 # web.gis
 
-Untuk aplikasi webGIS ini saya menggunnakan framework css Bootstrap.
+For this webGIS, I used Bootstrap css framework.
 
-Silahkan download di getbootstrap.com untuk melengkapi tampilan
+Please download manually at getbootstrap.com to get awesome look.
+Create folder assets/ first in your project before you insert Bootstrap css.
