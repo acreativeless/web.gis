@@ -56,7 +56,7 @@
     <hr>
 
     <footer>
-      <p>&copy; 2016 <a href="avistudcorp.blogspot.co.id">Avistud Creativeless</a></p>
+      <p>&copy; 2016 <a href="../avistudcorp.blogspot.co.id">Avistud Creativeless</a></p>
     </footer>
 
   </div>
