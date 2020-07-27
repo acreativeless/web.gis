@@ -1,4 +1,4 @@
-# web.gis
+# web-gis
 
 For this webGIS, I used Bootstrap css framework.
 
